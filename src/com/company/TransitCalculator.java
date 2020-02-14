@@ -13,6 +13,11 @@ public class TransitCalculator {
     double sevenDayUnlimitedRideRate = 33.00;
     double thirtyDayUnlimitedRideRate = 127.00;
 
+    public double unlimited7Price(int days, int rides){
+        double costPerRide = 0.00;
+
+        return costPerRide;
+    };
 
     public TransitCalculator(int days, int rides){
         if(days <= 30){
