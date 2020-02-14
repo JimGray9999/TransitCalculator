@@ -1,82 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="26637fc9-357a-47ab-ae84-2af59dd6d66b" name="Default Changelist" comment="" />
+    <list default="true" id="26637fc9-357a-47ab-ae84-2af59dd6d66b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TransitCalculator.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1Xlz8rpIbTPpDjXG133VXgyJiiN" />
-  <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="company" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.company.TransitCalculator" />
       <module name="TransitCalculator" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -90,5 +54,31 @@
       <updated>1581635312842</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="424" y="173" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581652394238">
+      <screen x="0" y="23" width="1920" height="989" />
+    </state>
+    <state x="424" y="173" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.23.1920.1057/-1680.23.1680.1027/0.23.1920.989@0.23.1920.989" timestamp="1581652394238" />
+    <state width="1868" height="253" key="GridCell.Tab.0.bottom" timestamp="1581652546641">
+      <screen x="0" y="23" width="1920" height="987" />
+    </state>
+    <state width="1868" height="253" key="GridCell.Tab.0.bottom/1920.23.1920.1057/-1680.23.1680.1027/0.23.1920.987@0.23.1920.987" timestamp="1581652546641" />
+    <state width="1868" height="253" key="GridCell.Tab.0.bottom/1920.23.1920.1057/-1680.23.1680.1027/0.23.1920.989@0.23.1920.989" timestamp="1581652399949" />
+    <state width="1868" height="253" key="GridCell.Tab.0.center" timestamp="1581652546640">
+      <screen x="0" y="23" width="1920" height="987" />
+    </state>
+    <state width="1868" height="253" key="GridCell.Tab.0.center/1920.23.1920.1057/-1680.23.1680.1027/0.23.1920.987@0.23.1920.987" timestamp="1581652546640" />
+    <state width="1868" height="253" key="GridCell.Tab.0.center/1920.23.1920.1057/-1680.23.1680.1027/0.23.1920.989@0.23.1920.989" timestamp="1581652399947" />
+    <state width="1868" height="253" key="GridCell.Tab.0.left" timestamp="1581652546639">
+      <screen x="0" y="23" width="1920" height="987" />
+    </state>
+    <state width="1868" height="253" key="GridCell.Tab.0.left/1920.23.1920.1057/-1680.23.1680.1027/0.23.1920.987@0.23.1920.987" timestamp="1581652546639" />
+    <state width="1868" height="253" key="GridCell.Tab.0.left/1920.23.1920.1057/-1680.23.1680.1027/0.23.1920.989@0.23.1920.989" timestamp="1581652399946" />
+    <state width="1868" height="253" key="GridCell.Tab.0.right" timestamp="1581652546640">
+      <screen x="0" y="23" width="1920" height="987" />
+    </state>
+    <state width="1868" height="253" key="GridCell.Tab.0.right/1920.23.1920.1057/-1680.23.1680.1027/0.23.1920.987@0.23.1920.987" timestamp="1581652546640" />
+    <state width="1868" height="253" key="GridCell.Tab.0.right/1920.23.1920.1057/-1680.23.1680.1027/0.23.1920.989@0.23.1920.989" timestamp="1581652399948" />
   </component>
 </project>
