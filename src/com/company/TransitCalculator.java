@@ -1,7 +1,5 @@
 package com.company;
 
-import java.util.Arrays;
-
 public class TransitCalculator {
     double numberOfDays;
     double numberOfRides;
@@ -24,7 +22,6 @@ public class TransitCalculator {
 
     public String getBestFare(double days, double rides){
         double[] priceCompare = getRidePrices(days, rides);
-        //System.out.println(Arrays.toString(priceCompare));
         String[] bestRateNames = new String[]{"Pay-per-ride","7-day Unlimited","30-day Unlimited"};
         double bestPrice = priceCompare[0];
         String  bestRate = bestRateNames[0];
